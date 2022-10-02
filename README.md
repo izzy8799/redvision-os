@@ -6,7 +6,7 @@ Please note that the system image is still being checked and is not ready for th
 Pleasant and easy to use. The interface of the system is not difficult. Thanks to RedCenter, it will be easier for you to use Linux. You can update packages, solve problems and much more!
 
 
-It's fast and lightweight. It uses 600MB of RAM! The ISO image weighs 1.9GB and you only need 20GB of disk space!
+It's fast and lightweight. It uses less than 1GB of RAM! The ISO image weighs 1.9GB and you only need 20GB of disk space!
 
 
 Support from the developer or the community will help you solve any problems!
