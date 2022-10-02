@@ -27,3 +27,11 @@ RAM: 4GB 663Mhz
 Motherboard: Gigabyte GA 945GM S2
 
 Disk: Seagate 180GB
+
+----------
+
+Slackwin - (TG: @slackwin) - ⭐️⭐️⭐️⭐️⭐️
+
+Everything works great, in my opinion it's another best distribution on arch.
+
+Laptop: Asus VivoBook 15 x540ma (or x543ma)
