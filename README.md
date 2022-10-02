@@ -12,7 +12,7 @@ It's fast and lightweight. It uses 600MB of RAM! The ISO image weighs 1.9GB and 
 Support from the developer or the community will help you solve any problems!
 
 # Reviews
-Leominer (TG: @leominerdev) - ⭐️⭐️⭐️⭐️
+Leominer (TG: @leominerdev) - ⭐️⭐️⭐️⭐️▪️
 
 The OS is good, I ran it on a machine with MBR (Legacy)
 The operating system is well optimized (the same Garuda Linux is very laggy), bad that inherited failure often hangs on purpose, but there is no idea what to do, also with the customization is very good theme looks cool.
