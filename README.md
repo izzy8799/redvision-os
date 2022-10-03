@@ -18,6 +18,8 @@ Bug fixes will soon be moved to another location.
 ----------
 
 KWallet and Wifi fix: https://www.dropbox.com/s/0cs3feqturrwxt0/kwallet-wifi-fix.sf?dl=1
+
+Folders fix: https://youtu.be/EJE5KM-88Io
 # Reviews
 Leominer (TG: @leominerdev) - ⭐️⭐️⭐️⭐️▪️
 
