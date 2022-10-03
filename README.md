@@ -17,11 +17,11 @@ Don't forget to read the descriptions below the video!
 
 ----------
 
-LiveCD Wifi connection: https://youtu.be/IL-5FQJ7qYg
+LiveCD Wifi connection (RU): https://youtu.be/IL-5FQJ7qYg
 
 KWallet and Wifi fix (.sf file): https://www.dropbox.com/s/0cs3feqturrwxt0/kwallet-wifi-fix.sf?dl=1
 
-Folders fix: https://youtu.be/EJE5KM-88Io
+Folders fix (RU): https://youtu.be/EJE5KM-88Io
 
 
 # Reviews
