@@ -1,7 +1,6 @@
 # Redvision OS
 A gaming distribution based on Arch Linux, with a linux-zen kernel and KDE Plasma.
 
-Please note that the system image is still being checked and is not ready for the official release.
 # Why Redvision OS?
 Pleasant and easy to use. The interface of the system is not difficult. Thanks to RedCenter, it will be easier for you to use Linux. You can update packages, solve problems and much more!
 
@@ -11,6 +10,11 @@ It's fast and lightweight. It uses less than 1GB of RAM! The ISO image weighs 1.
 
 Support from the developer or the community will help you solve any problems!
 
+# Bug Fixes
+How do I open an .sf file? Download the .sf file, open RedCenter, select the second option and select the file.
+
+
+KWallet and Wifi fix: https://www.dropbox.com/s/0cs3feqturrwxt0/kwallet-wifi-fix.sf?dl=1
 # Reviews
 Leominer (TG: @leominerdev) - ⭐️⭐️⭐️⭐️▪️
 
