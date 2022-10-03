@@ -13,13 +13,17 @@ Support from the developer or the community will help you solve any problems!
 # Bug Fixes
 How do I open an .sf file? Download the .sf file, open RedCenter, select the second option and select the file.
 
-Bug fixes will soon be moved to another location.
+Don't forget to read the descriptions below the video!
 
 ----------
 
-KWallet and Wifi fix: https://www.dropbox.com/s/0cs3feqturrwxt0/kwallet-wifi-fix.sf?dl=1
+LiveCD Wifi connection: https://youtu.be/IL-5FQJ7qYg
+
+KWallet and Wifi fix (.sf file): https://www.dropbox.com/s/0cs3feqturrwxt0/kwallet-wifi-fix.sf?dl=1
 
 Folders fix: https://youtu.be/EJE5KM-88Io
+
+
 # Reviews
 Leominer (TG: @leominerdev) - ⭐️⭐️⭐️⭐️▪️
 
