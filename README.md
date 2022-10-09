@@ -1,6 +1,5 @@
 # Redvision OS
 A gaming distribution based on Arch Linux, with a linux-zen kernel and KDE Plasma.
-The project may no longer be continued by the developer Izzy8799.
 
 # Why Redvision OS?
 Pleasant and easy to use. The interface of the system is not difficult. Thanks to RedCenter, it will be easier for you to use Linux. You can update packages, solve problems and much more!
