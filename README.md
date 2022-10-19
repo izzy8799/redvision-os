@@ -13,7 +13,7 @@ In addition to the usual packages, RedCenter and RedAM were updated to version 1
 
 - Redvision OS branding
 
-At startup, in the bootloader, in the installer, in neofetcher or plasma settings, you will now see redvision instead of ArchLinux!
+At startup, in the bootloader, in the installer, in neofetch or plasma settings, you will now see redvision instead of ArchLinux!
 
 # Why Redvision OS?
 Pleasant and easy to use. The interface of the system is not difficult. Thanks to RedCenter, it will be easier for you to use Linux. You can update packages, solve problems and much more!
