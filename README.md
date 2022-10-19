@@ -1,6 +1,20 @@
 # Redvision OS
 A gaming distribution based on Arch Linux, with a linux-zen kernel and KDE Plasma.
 
+# What's new in 1.1? / Changelog
+
+- Fixed bugs that were in 1.0
+
+Now you can take screenshots, our default wallpaper is shown by default, no problems with WiFi and wallet, less problems with Dolphin.
+
+- Packages updated
+
+In addition to the usual packages, RedCenter and RedAM were updated to version 1.1 with bug fixes.
+
+- Redvision OS branding
+
+At startup, in the bootloader, in the installer, in neofetcher or plasma settings, you will now see redvision instead of ArchLinux!
+
 # Why Redvision OS?
 Pleasant and easy to use. The interface of the system is not difficult. Thanks to RedCenter, it will be easier for you to use Linux. You can update packages, solve problems and much more!
 
