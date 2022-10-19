@@ -5,7 +5,7 @@ A gaming distribution based on Arch Linux, with a linux-zen kernel and KDE Plasm
 
 - Fixed bugs that were in 1.0
 
-Now you can take screenshots, our default wallpaper is shown by default, no problems with WiFi and wallet, less problems with Dolphin.
+Now you can take screenshots, our default wallpaper is shown by default, no problems with WiFi and KWallet, less problems with Dolphin.
 
 - Packages updated
 
