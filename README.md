@@ -29,9 +29,13 @@ How do I open an .sf file? Download the .sf file, open RedCenter, select the sec
 
 Don't forget to read the descriptions below the video!
 
+Actual Bugs:
+
 Folders fix (RU): https://youtu.be/EJE5KM-88Io
 
--- Redvision 1.0 bugs --
+----------
+
+Redvision 1.0 bugs:
 
 LiveCD Wifi connection (RU): https://youtu.be/IL-5FQJ7qYg
 
