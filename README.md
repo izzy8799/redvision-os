@@ -29,13 +29,13 @@ How do I open an .sf file? Download the .sf file, open RedCenter, select the sec
 
 Don't forget to read the descriptions below the video!
 
+Folders fix (RU): https://youtu.be/EJE5KM-88Io
+
 -- Redvision 1.0 bugs --
 
 LiveCD Wifi connection (RU): https://youtu.be/IL-5FQJ7qYg
 
 KWallet and Wifi fix (.sf file): https://www.dropbox.com/s/0cs3feqturrwxt0/kwallet-wifi-fix.sf?dl=1
-
-Folders fix (RU): https://youtu.be/EJE5KM-88Io
 
 
 # Reviews
