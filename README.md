@@ -48,3 +48,10 @@ Telegram: izzy8799
 Discord: Izzy8799#8179
 
 By the way, I also create sf files, feel free to contact me if you need!
+
+# RedvisionOS is a project by Sparkware Studio.
+Please share Sparkware Studio projects with your friends!
+
+Telegram Channel (RU): https://t.me/sparkwarest
+
+Site: https://sparkware.site/
