@@ -1,6 +1,6 @@
 # Redvision OS
 A gaming distribution based on ArchLinux, with a linux-zen kernel and GNOME Shell.
-
+![alt text](https://github.com/izzy8799/redvision-os/blob/main/image_2022-11-30_12-59-23.png?raw=true)
 Perfectly configured out of the box, with the best for you.
 
 # What's new in 1.2? / Changelog
