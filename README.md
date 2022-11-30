@@ -14,7 +14,7 @@ New and perfect design will delight your eyes!
 
 There is no more RedCenter.... Now there is SF Installer, RLang and RedAM!
 
-- More simplicity and stability
+- More usability, simplicity and stability
 
 Update or install programs completely graphically! No need for a terminal or commands.
 
