@@ -22,6 +22,10 @@ Update or install programs completely graphically! No need for a terminal or com
 
 Even SF files have a graphical interface!
 
+- New pre-installed programs
+
+Telegram, Discord, and some games and other things...
+
 **By the way, the login manager and shell are disabled by default on the LiveCD!!!**
 
 **Enable them using** ```sgdm```
