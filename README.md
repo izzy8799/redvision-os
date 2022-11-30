@@ -22,6 +22,10 @@ Update or install programs completely graphically! No need for a terminal or com
 
 Even SF files have a graphical interface!
 
+**By the way, the login manager and shell are disabled by default on the LiveCD!!!**
+
+**Enable them using** ```sgdm```
+
 # Why Redvision OS?
 Easy to use. None of your tasks will require you to enter commands into the terminal.
 
