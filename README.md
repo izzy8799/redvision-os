@@ -1,68 +1,31 @@
 # Redvision OS
-A gaming distribution based on Arch Linux, with a linux-zen kernel and KDE Plasma.
+A gaming distribution based on ArchLinux, with a linux-zen kernel and GNOME Shell.
 
-# What's new in 1.1? / Changelog
+Perfectly configured out of the box, with the best for you.
 
-- Fixed bugs that were in 1.0
+# What's new in 1.2? / Changelog
 
-Now you can take screenshots, our default wallpaper is shown by default, no problems with WiFi and KWallet, less problems with Dolphin.
+- Switching from KDE Plasma to GNOME Shell
 
-- Packages updated
+New and perfect design will delight your eyes!
 
-In addition to the usual packages, RedCenter and RedAM were updated to version 1.1 with bug fixes.
+- A completely new set of RedApps packages
 
-- Redvision OS branding
+There is no more RedCenter.... Now there is SF Installer, RLang and RedAM!
 
-At startup, in the bootloader, in the installer, in neofetch or plasma settings, you will now see redvision instead of ArchLinux!
+- More simplicity and stability
+
+Update or install programs completely graphically! No need for a terminal or commands.
+
+- New type of SF files
+
+Even SF files have a graphical interface!
 
 # Why Redvision OS?
-Pleasant and easy to use. The interface of the system is not difficult. Thanks to RedCenter, it will be easier for you to use Linux. You can update packages, solve problems and much more!
+Easy to use. None of your tasks will require you to enter commands into the terminal.
 
 
 It's fast and lightweight. It uses less than 1GB of RAM! The ISO image weighs 1.9GB and you only need 20GB of disk space!
 
 
 Support from the developer or the community will help you solve any problems!
-
-# Bug Fixes
-How do I open an .sf file? Download the .sf file, open RedCenter, select the second option and select the file.
-
-Don't forget to read the descriptions below the video!
-
-Actual Bugs:
-
-Folders fix (RU): https://youtu.be/EJE5KM-88Io
-
-----------
-
-Redvision 1.0 bugs:
-
-LiveCD Wifi connection (RU): https://youtu.be/IL-5FQJ7qYg
-
-KWallet and Wifi fix (.sf file): https://www.dropbox.com/s/0cs3feqturrwxt0/kwallet-wifi-fix.sf?dl=1
-
-
-# Reviews
-Leominer (TG: @leominerdev) - ⭐️⭐️⭐️⭐️▪️
-
-The OS is good, I ran it on a machine with MBR (Legacy)
-The operating system is well optimized (the same Garuda Linux is very laggy), bad that inherited failure often hangs on purpose, but there is no idea what to do, also with the customization is very good theme looks cool.
-
-
-Processor: Intel Core 2 Duo E7200 2.53Ghz
-
-Graphics Card: Built in 82945G Express Chipset Family
-
-RAM: 4GB 663Mhz
-
-Motherboard: Gigabyte GA 945GM S2
-
-Disk: Seagate 180GB
-
-----------
-
-Slackwin - (TG: @slackwin) - ⭐️⭐️⭐️⭐️⭐️
-
-Everything works great, in my opinion it's another best distribution on arch.
-
-Laptop: Asus VivoBook 15 x540ma (or x543ma)
