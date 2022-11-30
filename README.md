@@ -38,7 +38,9 @@ Support from the developer will help you solve any problems!
 # Need help? Contact me!
 
 Email: izzy8799.xd@gmail.com
+
 Telegram: izzy8799
+
 Discord: Izzy8799#8179
 
 By the way, I also create sf files, feel free to contact me if you need!
