@@ -5,28 +5,27 @@ Perfectly configured out of the box, with the best for you.
 
 ![alt text](https://github.com/izzy8799/redvision-os/blob/main/image_2022-11-30_12-59-23.png?raw=true)
 # What's new in 1.2? / Changelog
-
-- Switching from KDE Plasma to GNOME Shell
+<strong>• Switching from KDE Plasma to GNOME Shell</strong>
 
 New and perfect design will delight your eyes!
-
-- A completely new set of RedApps packages
+<hr>
+<strong>• A completely new set of RedApps packages</strong>
 
 There is no more RedCenter.... Now there is SF Installer, RLang and RedAM!
-
-- More usability, simplicity and stability
+<hr>
+<strong>• More usability, simplicity and stability</strong>
 
 Update or install programs completely graphically! No need for a terminal or commands.
-
-- New type of SF files
+<hr>
+<strong>• New type of SF files</strong>
 
 Even SF files have a graphical interface!
-
-- New pre-installed programs
+<hr>
+<strong>• New pre-installed programs</strong>
 
 Telegram, Discord, and some games and other things...
-
-**By the way, the login manager and shell are disabled by default on the LiveCD!!!**
+<hr>
+<strong>By the way, the login manager and shell are disabled by default on the LiveCD.</strong>
 
 **Enable them using** ```sgdm```
 
@@ -39,15 +38,11 @@ Performance. It uses less than 1 GB of RAM! The ISO image weighs 2 GB, and you o
 
 Support from the developer will help you solve any problems!
 
-# Need help? Contact me!
+# Need help?
 
-Email: izzy8799.xd@gmail.com
+Email: support@sparkware.site
 
-Telegram: izzy8799
-
-Discord: Izzy8799#8179
-
-By the way, I also create sf files, feel free to contact me if you need!
+By the way, we also create sf files, feel free to contact me if you need!
 
 # RedvisionOS is a project by Sparkware Studio.
 Please share Sparkware Studio projects with your friends!
